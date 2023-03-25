@@ -9,6 +9,7 @@ I am  ✨[**Mr0Wido**](https://mr0wido.github.io/)✨, and my primary goal will 
 
 - 💻 Pentesting, CTF, Bug Hunting: 
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-Green?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Widox)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Widox.png" alt="TryHackMe">
 
 
 
