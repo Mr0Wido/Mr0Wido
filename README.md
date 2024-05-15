@@ -8,8 +8,8 @@ I am  ✨[**Mr0Wido**](https://mr0wido.github.io/)✨, and my primary goal will 
 [![Linkedin Badge](https://img.shields.io/badge/Mr0Wido-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/Mr0Wido/)](https://www.linkedin.com/in/Mr0Wido/)
 
 - 💻 Pentesting, CTF, Bug Hunting: 
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-Green?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Widox)
-<img src="https://tryhackme-badges.s3.amazonaws.com/Widox.png" alt="TryHackMe">
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-Green?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Mr0Wido)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Mr0Wido.png" alt="TryHackMe">
 
 
 
